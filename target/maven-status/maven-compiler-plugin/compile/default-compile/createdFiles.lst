@@ -1,0 +1,9 @@
+com\architecture\reflection\ReflectionTest.class
+com\architecture\advanced\Contenedor.class
+com\architecture\advanced\interfaces\IPersonaPersistencia.class
+com\architecture\advanced\impl\PersonaPersistencia.class
+com\architecture\advanced\interfaces\IAnimalPersistencia.class
+com\architecture\advanced\impl\AnimalPersistencia.class
+com\architecture\advanced\Advanced.class
+com\architecture\advanced\Animal.class
+com\architecture\advanced\Persona.class
